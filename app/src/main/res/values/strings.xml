@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Birthday App</string>
+    <string name="etInputNameHint">Name</string>
+    <string name="enter_name_text">Enter Name</string>
+    <string name="send_name_btn_text">Send Name</string>
+    <string name="happy_birthday_text">Happy Birthday</string>
+</resources>
